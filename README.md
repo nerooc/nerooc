@@ -1,11 +1,6 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://neroocspotify.vercel.app/api/spotify)](https://open.spotify.com/user/nerooc)
-
-  </td>
-  <td width="50%">
 
 <br><p align="center">You can find me here:<br><br>
   [![Website](https://img.shields.io/website?label=tomaszgajda.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tomaszgajda.com)
