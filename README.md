@@ -14,9 +14,8 @@ My tech stack revolves around the current top FE technologies:
 Constantly learning through [Frontend Masters](https://github.com/FrontendMasters).
 Sometimes I design things using [Figma](https://www.figma.com/@nerooc).
 
-Currently writing a Master's Thesis about **extending the capabilities of cloud services by creating custom applications on the example of Atlassian tools** like Forge or Connect.
+Currently writing a Master's Thesis - **Review of selected features and capabilities of React library and examples of its implementation in cloud-based services**.
 
-Found a period without any commits? Probably filled at one of my 
 ##### OTHER GIT ACCOUNTS:
 - [Gitlab](https://gitlab.com/nerooc) - [@aexol-gitlab](https://gitlab.com/Aexol)
 - [Trilogy](https://github.com/tomaszgajda) - [@trilogy-group](https://github.com/trilogy-group)
