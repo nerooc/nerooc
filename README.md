@@ -14,7 +14,7 @@ My tech stack revolves around the current top FE technologies:
 Constantly learning through [Frontend Masters](https://github.com/FrontendMasters).
 Sometimes I design things using [Figma](https://www.figma.com/@nerooc).
 
-Currently writing a Master's Thesis - **Review of selected features and capabilities of React library and examples of its implementation in cloud-based services**.
+I hold a **Master's degree** in **Applied Computer Science**, reflecting my advanced expertise in the field of computer science and my dedication to applying cutting-edge technology to practical real-world solutions.
 
 ##### OTHER GIT ACCOUNTS:
 - [Gitlab](https://gitlab.com/nerooc) - [@aexol-gitlab](https://gitlab.com/Aexol)
