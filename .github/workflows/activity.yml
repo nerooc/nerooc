@@ -1,0 +1,41 @@
+name: Refresh profile activity
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/activity.yml'
+      - 'scripts/update_activity.py'
+  workflow_dispatch:
+  schedule:
+    - cron: '17 5 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    # Standard hosted runners are free for public repositories. Skip if made private.
+    if: github.repository == 'nerooc/nerooc' && github.event.repository.visibility == 'public'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Generate verified local activity graphics
+        run: python3 scripts/update_activity.py
+      - name: Save refreshed graphics
+        run: |
+          git add assets/activity/
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh public contribution artwork"
+          git pull --rebase origin main
+          git push origin HEAD:main
