@@ -1,8 +1,7 @@
 <p>
 <a href="https://codeandvisuals.dev/en">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile-dark.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
     <img src="./assets/header-light.svg" width="100%" alt="Tomasz Gajda - Senior Frontend Developer. React, TypeScript and interface design. Founder of Code & Visuals, Kraków, Poland.">
   </picture>
@@ -51,8 +50,7 @@ I’m a **Senior Frontend Developer** building React and TypeScript applications
 ## Tools & current interests
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/tools/tools-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/tools/tools-mobile-light.svg">
+  <source media="(max-width: 600px)" srcset="./assets/tools/tools-mobile-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/tools/tools-dark.svg">
   <img src="./assets/tools/tools-light.svg" width="100%" alt="Frontend and design: React, TypeScript, Next.js, Figma, TanStack, GraphQL, MUI and styled-components. Backend and delivery: Node.js, NestJS, PostgreSQL, Docker, Azure, Google Cloud and Git. AI with intent: Spec, Agents, Review and Verify form a loop around human judgment. Spec-driven, human-reviewed work.">
 </picture>
@@ -65,8 +63,7 @@ I use AI throughout development, including **spec-driven development and coding 
 
 <a href="https://github.com/nerooc?tab=overview">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/activity/contributions-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/activity/contributions-mobile-light.svg">
+    <source media="(max-width: 600px)" srcset="./assets/activity/contributions-mobile-dark.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity/contributions-dark.svg">
     <img src="./assets/activity/contributions-light.svg" width="100%" alt="Tomasz’s GitHub contribution calendar. The image includes its date range and refresh date; open the GitHub profile for the accessible calendar.">
   </picture>
