@@ -10,7 +10,11 @@ SVGs include their fonts, icons and screenshots. No external image service is re
 
 ## Activity calendar
 
-The calendar is a dated snapshot of public GitHub contributions. Automatic refresh is not enabled in this repository. Refresh it with Python 3.10 or newer, then commit and push the generated activity files:
+The calendar refreshes automatically every day at **05:17 UTC** through [Refresh profile activity](https://github.com/nerooc/nerooc/actions/workflows/activity.yml), which can also be run manually from Actions. This is 06:17 in Warsaw during winter and 07:17 during summer; GitHub may delay scheduled runs.
+
+The workflow uses a standard `ubuntu-latest` runner, free for public repositories under [GitHub's billing rules](https://docs.github.com/en/billing/concepts/product-billing/github-actions). It uploads no artifacts or caches, calls no paid services and skips the job if this repository becomes private. Only the generated activity files are committed using the repository's built-in token.
+
+Refresh locally with Python 3.10 or newer, then commit and push the generated activity files:
 
 ```sh
 python3 scripts/update_activity.py
