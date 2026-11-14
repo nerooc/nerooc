@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "typescript",
+    "title": "TypeScript",
+    "library": "devicon",
+    "commit": "32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/typescript/typescript-original.svg",
+    "color": null,
+    "logo_size": 28,
+    "bytes": 943
+  },
+  {
+    "slug": "react",
+    "title": "React",
+    "library": "simple-icons",
+    "commit": "cd796c98565fc466923fc1128b962e133fa3c612",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cd796c98565fc466923fc1128b962e133fa3c612/icons/react.svg",
+    "color": "61DAFB",
+    "logo_size": 32,
+    "bytes": 2926
+  },
+  {
+    "slug": "nextjs",
+    "title": "Next.js",
+    "library": "simple-icons",
+    "commit": "cd796c98565fc466923fc1128b962e133fa3c612",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cd796c98565fc466923fc1128b962e133fa3c612/icons/nextdotjs.svg",
+    "color": "FFFFFF",
+    "logo_size": 30,
+    "bytes": 322
+  },
+  {
+    "slug": "graphql",
+    "title": "GraphQL",
+    "library": "simple-icons",
+    "commit": "cd796c98565fc466923fc1128b962e133fa3c612",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cd796c98565fc466923fc1128b962e133fa3c612/icons/graphql.svg",
+    "color": "E10098",
+    "logo_size": 31,
+    "bytes": 666
+  },
+  {
+    "slug": "mui",
+    "title": "MUI",
+    "library": "simple-icons",
+    "commit": "cd796c98565fc466923fc1128b962e133fa3c612",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cd796c98565fc466923fc1128b962e133fa3c612/icons/mui.svg",
+    "color": "007FFF",
+    "logo_size": 30,
+    "bytes": 1560
+  },
+  {
+    "slug": "styled-components",
+    "title": "styled-components",
+    "library": "simple-icons",
+    "commit": "cd796c98565fc466923fc1128b962e133fa3c612",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cd796c98565fc466923fc1128b962e133fa3c612/icons/styledcomponents.svg",
+    "color": "DB7093",
+    "logo_size": 34,
+    "bytes": 2671
+  },
+  {
+    "slug": "figma",
+    "title": "Figma",
+    "library": "devicon",
+    "commit": "32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/figma/figma-original.svg",
+    "color": null,
+    "logo_size": 29,
+    "bytes": 585
+  },
+  {
+    "slug": "nodejs",
+    "title": "Node.js",
+    "library": "simple-icons",
+    "commit": "cd796c98565fc466923fc1128b962e133fa3c612",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cd796c98565fc466923fc1128b962e133fa3c612/icons/nodedotjs.svg",
+    "color": "5FA04E",
+    "logo_size": 30,
+    "bytes": 1608
+  },
+  {
+    "slug": "nestjs",
+    "title": "NestJS",
+    "library": "simple-icons",
+    "commit": "cd796c98565fc466923fc1128b962e133fa3c612",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cd796c98565fc466923fc1128b962e133fa3c612/icons/nestjs.svg",
+    "color": "E0234E",
+    "logo_size": 31,
+    "bytes": 6317
+  },
+  {
+    "slug": "postgresql",
+    "title": "PostgreSQL",
+    "library": "devicon",
+    "commit": "32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/postgresql/postgresql-original.svg",
+    "color": null,
+    "logo_size": 31,
+    "bytes": 9178
+  },
+  {
+    "slug": "azure",
+    "title": "Microsoft Azure",
+    "library": "devicon",
+    "commit": "32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/azure/azure-original.svg",
+    "color": null,
+    "logo_size": 30,
+    "bytes": 1713
+  },
+  {
+    "slug": "gcp",
+    "title": "Google Cloud",
+    "library": "devicon",
+    "commit": "32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/googlecloud/googlecloud-original.svg",
+    "color": null,
+    "logo_size": 33,
+    "bytes": 782
+  },
+  {
+    "slug": "docker",
+    "title": "Docker",
+    "library": "simple-icons",
+    "commit": "cd796c98565fc466923fc1128b962e133fa3c612",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cd796c98565fc466923fc1128b962e133fa3c612/icons/docker.svg",
+    "color": "2496ED",
+    "logo_size": 34,
+    "bytes": 1765
+  },
+  {
+    "slug": "git",
+    "title": "Git",
+    "library": "simple-icons",
+    "commit": "cd796c98565fc466923fc1128b962e133fa3c612",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/cd796c98565fc466923fc1128b962e133fa3c612/icons/git.svg",
+    "color": "F03C2E",
+    "logo_size": 29,
+    "bytes": 426
+  }
+]
