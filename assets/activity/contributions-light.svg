@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="312" viewBox="0 0 960 312" role="img" aria-labelledby="title desc">
-<title id="title">nerooc: 2,327 contributions from 23 Nov 2025 - 27 Nov 2026</title><desc id="desc">259 active days. GitHub public profile calendar, full fetched period. Refreshed 27 Nov 2026 (Europe/Warsaw). Counts are contributions, not commits. GitHub may include anonymized private contributions according to profile settings.</desc>
+<title id="title">nerooc: 2,337 contributions from 23 Nov 2025 - 28 Nov 2026</title><desc id="desc">261 active days. GitHub public profile calendar, full fetched period. Refreshed 28 Nov 2026 (Europe/Warsaw). Counts are contributions, not commits. GitHub may include anonymized private contributions according to profile settings.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
 <rect x="0.5" y="0.5" width="959" height="311" rx="16" fill="#ffffff" stroke="#d7ddd2"/>
 <text x="36" y="35" class="mono" font-size="12" letter-spacing="2" fill="#b42637">PUBLIC ACTIVITY</text>
-<text x="36" y="82" font-size="38" font-weight="650" fill="#171a16">2,327<tspan font-size="22" font-weight="400"> contributions</tspan></text>
-<text x="36" y="108" font-size="14" fill="#586150">23 Nov 2025 - 27 Nov 2026</text>
-<text x="924" y="81" text-anchor="end" font-size="16" fill="#586150">259 active days</text>
+<text x="36" y="82" font-size="38" font-weight="650" fill="#171a16">2,337<tspan font-size="22" font-weight="400"> contributions</tspan></text>
+<text x="36" y="108" font-size="14" fill="#586150">23 Nov 2025 - 28 Nov 2026</text>
+<text x="924" y="81" text-anchor="end" font-size="16" fill="#586150">261 active days</text>
 <text x="36" y="173" font-size="11" fill="#586150">Mon</text>
 <text x="36" y="205" font-size="11" fill="#586150">Wed</text>
 <text x="36" y="237" font-size="11" fill="#586150">Fri</text>
@@ -390,8 +390,9 @@
 <rect x="908" y="178" width="12" height="12" rx="2" fill="#e8ece4"><title>2026-11-24: 0 contributions</title></rect>
 <rect x="908" y="194" width="12" height="12" rx="2" fill="#c4303f"><title>2026-11-25: 16 contributions</title></rect>
 <rect x="908" y="210" width="12" height="12" rx="2" fill="#ec8b96"><title>2026-11-26: 13 contributions</title></rect>
-<rect x="908" y="226" width="12" height="12" rx="2" fill="#e8ece4"><title>2026-11-27: 0 contributions</title></rect>
-<text x="36" y="285" font-size="12" fill="#586150">Refreshed 27 Nov 2026</text>
+<rect x="908" y="226" width="12" height="12" rx="2" fill="#f9cdd1"><title>2026-11-27: 2 contributions</title></rect>
+<rect x="908" y="242" width="12" height="12" rx="2" fill="#ec8b96"><title>2026-11-28: 8 contributions</title></rect>
+<text x="36" y="285" font-size="12" fill="#586150">Refreshed 28 Nov 2026</text>
 <text x="760" y="285" font-size="11" fill="#586150">Less</text>
 <rect x="798" y="274" width="12" height="12" rx="2" fill="#e8ece4"/>
 <rect x="815" y="274" width="12" height="12" rx="2" fill="#f9cdd1"/>
